@@ -1,0 +1,19 @@
+{
+  "name": "YoutubeShortsGenerator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MDxWARRIORxOP/YoutubeShortsGenerator.git",
+  "author": "MDxWARRIORxOP <mohammedsiddiqui2009@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "editly": "^0.14.2",
+    "gtts": "^0.2.1",
+    "nanoid": "^4.0.0",
+    "node-fetch": "^3.3.0",
+    "youtube-videos-uploader": "^2.0.4"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  }
+}
